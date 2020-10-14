@@ -95,7 +95,7 @@ namespace Dias.General
                         Console.WriteLine(op.examples[--nChoice].Key.ToString());
                         Console.WriteLine();
                         Console.ForegroundColor = ConsoleColor.Yellow;
-                        op.examples[--nChoice].Value();
+                        op.examples[nChoice].Value();
                         Console.ForegroundColor = ConsoleColor.Green;
 
                         Console.Write("\nPresione cualquier tecla par continuar...");
@@ -801,9 +801,9 @@ namespace Dias.Cuatro
             char opcion = default;
             do
             {
-                Console.Write("Entre una opción, N para salir:");
-                ConsoleKeyInfo lectura = Console.ReadKey();
-                opcion = Convert.ToChar(lectura.KeyChar);
+                bool validacion = false;
+                lecturaTeclado("Entre una opción, N para salir:",out opcion);
+                 
                 var resultado = opcion switch
                 {
                     '1' => "Case 1",
@@ -854,22 +854,17 @@ namespace Dias.Cuatro
         {
 
         }
-        public char lecturaUnValorTeclado(string mensaje)
+        public void lecturaTeclado(string mensaje,out char lectura)
         {
-            char lectura = default;
             Console.Write(mensaje);
             ConsoleKeyInfo lecturaTeclado = Console.ReadKey();
             lectura = Convert.ToChar(lecturaTeclado.KeyChar);
-            return lectura;
         }
-        public string lecturaTeclado(string mensaje)
+        public void lecturaTeclado(string mensaje,out string lectura)
         {
-            string lectura = default;
             Console.Write(mensaje);
             lectura = Console.ReadLine();
-            return lectura;
         }
-
         public int lecturaNumeroEnteroTeclado(string mensaje, out bool validacion, bool alerta)
         {
             string lectura = default;
@@ -896,6 +891,7 @@ namespace Dias.Cuatro
             } while (!validacion && bucle);
             return numero;
         }
+
         public void MinimoMaximodeTiposConOSinSigno()
         {
             Console.WriteLine("Signed integral types:");
