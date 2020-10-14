@@ -1,0 +1,10 @@
+D:\BMV\20483C\Mod 1-4\HelloWorldWinForm\bin\Debug\HelloWorldWinForm.exe.config
+D:\BMV\20483C\Mod 1-4\HelloWorldWinForm\bin\Debug\HelloWorldWinForm.exe
+D:\BMV\20483C\Mod 1-4\HelloWorldWinForm\bin\Debug\HelloWorldWinForm.pdb
+D:\BMV\20483C\Mod 1-4\HelloWorldWinForm\obj\Debug\HelloWorldWinForm.csprojAssemblyReference.cache
+D:\BMV\20483C\Mod 1-4\HelloWorldWinForm\obj\Debug\HelloWorldWinForm.Form1.resources
+D:\BMV\20483C\Mod 1-4\HelloWorldWinForm\obj\Debug\HelloWorldWinForm.Properties.Resources.resources
+D:\BMV\20483C\Mod 1-4\HelloWorldWinForm\obj\Debug\HelloWorldWinForm.csproj.GenerateResource.cache
+D:\BMV\20483C\Mod 1-4\HelloWorldWinForm\obj\Debug\HelloWorldWinForm.csproj.CoreCompileInputs.cache
+D:\BMV\20483C\Mod 1-4\HelloWorldWinForm\obj\Debug\HelloWorldWinForm.exe
+D:\BMV\20483C\Mod 1-4\HelloWorldWinForm\obj\Debug\HelloWorldWinForm.pdb

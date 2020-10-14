@@ -1,0 +1,15 @@
+D:\BMV\20483C\Mod 1-4\HelloWorldXAML\bin\Debug\HelloWorldXAML.exe.config
+D:\BMV\20483C\Mod 1-4\HelloWorldXAML\bin\Debug\HelloWorldXAML.exe
+D:\BMV\20483C\Mod 1-4\HelloWorldXAML\bin\Debug\HelloWorldXAML.pdb
+D:\BMV\20483C\Mod 1-4\HelloWorldXAML\obj\Debug\HelloWorldXAML.csprojAssemblyReference.cache
+D:\BMV\20483C\Mod 1-4\HelloWorldXAML\obj\Debug\MainWindow.g.cs
+D:\BMV\20483C\Mod 1-4\HelloWorldXAML\obj\Debug\App.g.cs
+D:\BMV\20483C\Mod 1-4\HelloWorldXAML\obj\Debug\HelloWorldXAML_MarkupCompile.cache
+D:\BMV\20483C\Mod 1-4\HelloWorldXAML\obj\Debug\HelloWorldXAML_MarkupCompile.lref
+D:\BMV\20483C\Mod 1-4\HelloWorldXAML\obj\Debug\MainWindow.baml
+D:\BMV\20483C\Mod 1-4\HelloWorldXAML\obj\Debug\HelloWorldXAML.g.resources
+D:\BMV\20483C\Mod 1-4\HelloWorldXAML\obj\Debug\HelloWorldXAML.Properties.Resources.resources
+D:\BMV\20483C\Mod 1-4\HelloWorldXAML\obj\Debug\HelloWorldXAML.csproj.GenerateResource.cache
+D:\BMV\20483C\Mod 1-4\HelloWorldXAML\obj\Debug\HelloWorldXAML.csproj.CoreCompileInputs.cache
+D:\BMV\20483C\Mod 1-4\HelloWorldXAML\obj\Debug\HelloWorldXAML.exe
+D:\BMV\20483C\Mod 1-4\HelloWorldXAML\obj\Debug\HelloWorldXAML.pdb
